@@ -9,15 +9,6 @@
             "timeout": 30,
             "ext": "{\"box\": \"TVBox\", \"danmu\": false}"
         },
-       {
-            "key": "freeok",
-            "name": "freeok",
-            "playerType": 0,
-            "type": 3,
-            "api": "./js/freeok.js",
-            "timeout": 30,
-            "ext": "{\"box\": \"TVBox\", \"danmu\": false}"
-        },
         {
             "key": "gitcafe",
             "name": "🦊┃阿里纸条┃🦊",
@@ -25,7 +16,7 @@
             "type": 3,
             "api": "./js/gitcafe.js",
             "timeout": 30,
-            "ext": "{\"box\": \"TVBox\", \"danmu\": false, \"token\": \"\"}"
+            "ext": "{\"box\": \"TVBox\", \"danmu\": false, \"token\": \"6827db23e5474d02a07fd7431d3d5a5a\"}"
         },
         {
             "key": "huya",
@@ -88,7 +79,7 @@
             "type": 3,
             "api": "./js/pan_search.js",
             "timeout": 30,
-            "ext": "{\"box\": \"TVBox\", \"danmu\": false, \"token\": \"\"}"
+            "ext": "{\"box\": \"TVBox\", \"danmu\": false, \"token\": \"6827db23e5474d02a07fd7431d3d5a5a\"}"
         },
         {
             "key": "dygangs",
@@ -133,7 +124,7 @@
             "type": 3,
             "api": "./js/alipansou.js",
             "timeout": 30,
-            "ext": "{\"box\": \"TVBox\", \"danmu\": false, \"token\": \"\"}"
+            "ext": "{\"box\": \"TVBox\", \"danmu\": false, \"token\": \"6827db23e5474d02a07fd7431d3d5a5a\"}"
         },
         {
             "key": "kankan70",
@@ -187,7 +178,7 @@
             "type": 3,
             "api": "./js/wogg.js",
             "timeout": 30,
-            "ext": "{\"box\": \"TVBox\", \"danmu\": false, \"token\": \"\"}"
+            "ext": "{\"box\": \"TVBox\", \"danmu\": false, \"token\": \"6827db23e5474d02a07fd7431d3d5a5a\"}"
         },
         {
             "key": "ikanbot",
@@ -205,7 +196,7 @@
             "type": 3,
             "api": "./js/aliyunpanshare.js",
             "timeout": 30,
-            "ext": "{\"box\": \"TVBox\", \"danmu\": false, \"token\": \"\"}"
+            "ext": "{\"box\": \"TVBox\", \"danmu\": false, \"token\": \"6827db23e5474d02a07fd7431d3d5a5a\"}"
         },
         {
             "key": "newvision",
@@ -241,7 +232,7 @@
             "type": 3,
             "api": "./js/changzhang.js",
             "timeout": 30,
-            "ext": "{\"box\": \"TVBox\", \"danmu\": false, \"token\": \"\"}"
+            "ext": "{\"box\": \"TVBox\", \"danmu\": false, \"token\": \"6827db23e5474d02a07fd7431d3d5a5a\"}"
         },
         {
             "key": "jianpian",
@@ -266,7 +257,7 @@
             "name": "┃推送┃",
             "type": 3,
             "api": "./js/push_agent.js",
-            "ext": "{\"box\": \"TVBox\", \"token\": \"\"}"
+            "ext": "{\"box\": \"TVBox\", \"token\": \"6827db23e5474d02a07fd7431d3d5a5a\"}"
         }
     ],
     "ijk": [
